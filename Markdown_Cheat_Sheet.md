@@ -29,16 +29,16 @@ author: may-satsuki (https://github.com/may-satsuki)
 # Text Decoration
 *italic*<br>
 _italic_<br>
-**太字**<br>
-__太字__
+**bold**<br>
+__bold__
 
 
 【Source】
 ```markdown
 *italic*<br>
 _italic_<br>
-**太字**<br>
-__太字__
+**bold**<br>
+__bold__
 ```
 <br>
 
